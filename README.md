@@ -7,6 +7,11 @@ REQUIREMENTS:
 - SpringBoot 3.3.0
 - Spring Security 6.3.0
 - jjwt token,impl,jackson 0.11.5
+HOW TO RUN:
+- Clone the repository (git clone <repository_url>)
+- Navigate to project directory(cd <project_directory>)
+- Build the project according to above requirements
+- Run the project
   
 SECURITY:
 -> Jwt token authentication is provided to secure Endpoints without authentication.
