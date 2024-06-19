@@ -1,6 +1,8 @@
+Mahammed ali, cmdali235@gmail.com
+
 USER REGISTRATION AND FETCH API'S ALSO HAVE UPDATE AND DELETE API'S FOR USER WITH JWT TOKEN AUTHENTICATION WITH POSTGRESQL DATABASE.
-REQUIREMENTS:                                                                                                                                              Mahammed ali
-- Java 17 or higher                                                                                                                                        cmdali235@gmail.com
+REQUIREMENTS:                                                                                                                                             
+- Java 17 or higher                                                                                                                                       
 - Apache Maven 3.9.6 
 - SpringBoot 3.3.0
 - Spring Security 6.3.0
